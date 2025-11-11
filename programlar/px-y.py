@@ -1,0 +1,1 @@
+print("Doğrudan yazdığım her şeyi üzerine hiç düşünmeden çalıştırmayın abi...")
