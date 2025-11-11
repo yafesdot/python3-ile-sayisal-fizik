@@ -25,3 +25,7 @@ Python 2'de 64 bit float ile doğru sonuç alınırken Python 3'te doğru sonucu
 
 ### P1-1
 Bir hata yok ama hata payının mutlak değerini aldım.
+
+## P2
+### P2-4
+Kitabın en büyük günahlarından biriyle ilk karşılaşışım: Kodda referanslanmış ama tanımlanmamış fonksiyonlar, aslında herkesin kendi aklına gelen fonksiyonun vereceği sonucu deneyip görebilmesi için büyük bir sorun değil, kendim rastgele bir fonksiyon verdim.
