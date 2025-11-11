@@ -11,7 +11,7 @@ python init.py
 ```
 Çalıştırmak istediğiniz kodu tercihen terminalinizde çalıştırın:
 ```
-python px-y.py 
+python ./programlar/px-y.py 
 ```
 
 **Uyarı**: Kodları olabildiğince gözüme nasıl güzel gözüküyorsa o şekilde yazdım, hepsi işlerini yapıyor olsa da her standarta uygun olmayabilir sizin gözünüze güzel gözükmeyebilir. Bu tamamen subjektif bir repo.
