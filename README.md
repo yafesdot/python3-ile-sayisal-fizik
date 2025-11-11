@@ -11,7 +11,17 @@ python init.py
 ```
 Çalıştırmak istediğiniz kodu tercihen terminalinizde çalıştırın:
 ```
-python ./programlar/px-y.py 
+python ./programlar/px-y.py
 ```
 
 **Uyarı**: Kodları olabildiğince gözüme nasıl güzel gözüküyorsa o şekilde yazdım, hepsi işlerini yapıyor olsa da her standarta uygun olmayabilir sizin gözünüze güzel gözükmeyebilir. Bu tamamen subjektif bir repo.
+
+# "Hatalar"
+Aslında değişiklikler desem daha doğru olurdu...
+
+## P1
+### P1-B
+Python 2'de 64 bit float ile doğru sonuç alınırken Python 3'te doğru sonucun alınması için Decimal kullanılması gerekiyor. Aslında bu durum kitabın anlatmaya çalıştığı şeyi göstermede daha iyi bile olduğundan pozitif bir hata olarak değerlendiriyorum.
+
+### P1-1
+Bir hata yok ama hata payının mutlak değerini aldım.
