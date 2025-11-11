@@ -5,7 +5,10 @@ def f(x):
 
 a = 1.0
 h = 0.1
-print("h degeri          turev degeri    hata payi")
+
+print(f"{'h değeri':<18}{'türev değeri':<16}{'hata payı'}")
+
+
 for i in range(14):
     f1 = (f(a + h) - f(a)) / h
     print(f"{h:.12f}\
