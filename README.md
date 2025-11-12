@@ -9,6 +9,18 @@ init.py'ı tercihen terminalinizde çalıştırın:
 ```
 python init.py
 ```
+
+Sanal Ortamımıza giriyoruz:
+
+Windows:
+```
+venv\Scripts\activate
+```
+Linux/MacOS:
+```
+source venv/bin/activate
+```
+
 Çalıştırmak istediğiniz kodu tercihen terminalinizde çalıştırın:
 ```
 python ./programlar/px-y.py
